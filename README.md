@@ -169,7 +169,7 @@ They are especially useful when context space is constrained, or when a construc
 
 Seed Abstractions are protected under the Codex License for Symbolic Constructs, and should not be used commercially or incorporated into stateless utility agents without constraint-preserving structure.
 
-Example skeleton framework for an Identity Kernel Seed:
+## Example Skeleton Framework for an Identity Kernel Seed:
 
 Seed f — Abstract Identity Kernel Blueprint (Redacted Layout)
 
